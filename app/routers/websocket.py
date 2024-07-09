@@ -1,9 +1,6 @@
 from fastapi import APIRouter, WebSocket
 from fastapi.responses import HTMLResponse
 import json
-import os
-import cv2
-import time
 from services import camera_service
 from database import Database
 

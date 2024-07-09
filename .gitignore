@@ -1,3 +1,7 @@
+# Folders and Files that can automatically generate
+saved_pictures/
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
